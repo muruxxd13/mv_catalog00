@@ -867,8 +867,8 @@ footer .dz-line svg{width:22px;height:15px;border-radius:3px;box-shadow:0 0 12px
     <b id="infoTitle">Sample catalog is loaded</b>
     <p id="infoMsg">
       The page ships with a curated selection. To load your <b>full</b> local catalogs,
-      simply drop your <code>gfs-catalog-*.json</code> files anywhere on this page — they'll
-      be remembered for next time.
+      place your <code>gfs-catalog-*.json</code> files in the <code>json</code> folder next to
+      <code>index.html</code>. They load automatically when the page is served over HTTP.
     </p>
   </div>
   <div class="info-actions">
@@ -956,10 +956,10 @@ footer .dz-line svg{width:22px;height:15px;border-radius:3px;box-shadow:0 0 12px
    1. CATALOG DEFINITIONS
    ========================================================= */
 const CATALOG_META = [
-  { key:'packizard', label:'Packizard', color:'#00c46a', file:'gfs-catalog-packizard.json' },
-  { key:'pfs',       label:'PFS',       color:'#00ff88', file:'gfs-catalog-pfs.json'       },
-  { key:'fpkg',      label:'FPKG',      color:'#ff2d4b', file:'gfs-catalog-fpkg.json'      },
-  { key:'lz4',       label:'LZ4',       color:'#ffc94d', file:'gfs-catalog-lz4.json'       },
+  { key:'packizard', label:'Packizard', color:'#00c46a', file:'json/gfs-catalog-packizard.json' },
+  { key:'pfs',       label:'PFS',       color:'#00ff88', file:'json/gfs-catalog-pfs.json'       },
+  { key:'fpkg',      label:'FPKG',      color:'#ff2d4b', file:'json/gfs-catalog-fpkg.json'      },
+  { key:'lz4',       label:'LZ4',       color:'#ffc94d', file:'json/gfs-catalog-lz4.json'       },
 ];
 const META = Object.fromEntries(CATALOG_META.map(m => [m.key, m]));
 const IS_FILE = location.protocol === 'file:';
