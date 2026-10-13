@@ -2,6 +2,532 @@
   "name": "GFS Catalog-fpkg",
   "packages": [
     {
+      "titleId": "PPSA34547",
+      "title": "CONTROL Resonant",
+      "version": "01.300",
+      "sizeBytes": 85899345920,
+      "posterUrl": "https://i128.fastpic.org/big/2026/1013/d0/a44c9a12389f86d29aa58818a3e546d0.png",
+      "downloadLinks": [
+        {
+          "name": "Viki (+Arabic Lang)",
+          "url": "https://vik1ngfile.site/f/rgFSdoeNDi"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA28000",
+      "title": "The Blood of Dawnwalker",
+      "version": "01.005",
+      "sizeBytes": 50465865728,
+      "posterUrl": "https://i128.fastpic.org/big/2026/1011/5d/cb3cea726611856ca5fc6a610fbd515d.png",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vik1ngfile.site/f/Z50TqGAOCD"
+        },
+        {
+          "name": "Viki (+Arabic Lang)",
+          "url": "https://vikingfile.com/f/CO8HdPcFYv"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA01317",
+      "title": "Gran Turismo 7",
+      "version": "01.710",
+      "sizeBytes": 134217728000,
+      "posterUrl": "https://i128.fastpic.org/big/2026/1011/8a/65949f40ddaa9dd8a4b9e11f8042268a.png",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vik1ngfile.site/f/XGPSzf2IcR"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA24191",
+      "title": "Monster Hunter Wilds",
+      "version": "01.041",
+      "sizeBytes": 64424509440,
+      "posterUrl": "https://i128.fastpic.org/big/2026/1011/15/187a2120db7f93022d2b09ee9b7b9715.png",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vik1ngfile.site/f/Lhot5gaUbz"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA34547",
+      "title": "CONTROL Resonant",
+      "version": "01.300",
+      "sizeBytes": 85899345920,
+      "posterUrl": "https://i128.fastpic.org/big/2026/1011/fd/792b94fac3c0551f1a78d8ec1d1020fd.png",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vik1ngfile.site/f/YfSY9cn31J"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA28038",
+      "title": "Halo Campaign Evolved Premium Edition",
+      "version": "17.661",
+      "sizeBytes": 67645734912,
+      "posterUrl": "https://i128.fastpic.org/big/2026/1011/73/cab605b1b15961fdf0eb07bd9ba34c73.png",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vik1ngfile.site/f/7cL9OaMNlC"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA17373",
+      "title": "Jet Kave Adventure",
+      "version": "01.002",
+      "sizeBytes": 2147483648,
+      "posterUrl": "https://i128.fastpic.org/big/2026/1011/82/d269ffa80edce266793e36ae10f5f482.png",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vik1ngfile.site/f/cQVEdpOHIN"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA24003",
+      "title": "Dying Light The Beast",
+      "version": "01.007",
+      "sizeBytes": 39728447488,
+      "posterUrl": "https://i128.fastpic.org/big/2026/1011/20/54eac9f881fca69ae929cbd0e334a220.png",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vik1ngfile.site/f/fsszzIEadv"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA34008",
+      "title": "Mortal Shell II",
+      "version": "01.00",
+      "sizeBytes": 33285996544,
+      "posterUrl": "https://i128.fastpic.org/big/2026/1011/83/5ff39a120d67f06ea1b0a753cbe27783.png",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vik1ngfile.site/f/whOssSxxAW"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA38474",
+      "title": "SAMSON A Tyndalston Story",
+      "version": "01.002",
+      "sizeBytes": 10737418240,
+      "posterUrl": "https://i128.fastpic.org/big/2026/1011/76/b00bd39aff791c28d7b861ca72de0076.png",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vik1ngfile.site/f/9dUxpVwoHn"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA32236",
+      "title": "Tokyo Xtreme Racer",
+      "version": "01.003",
+      "sizeBytes": 11811160064,
+      "posterUrl": "https://i128.fastpic.org/big/2026/1011/37/cc10ab0fb40617da0422d9e89ed47d37.png",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vik1ngfile.site/f/W7KgYX16Ci"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA34502",
+      "title": "Call of Duty®: Black Ops II",
+      "version": "01.010",
+      "sizeBytes": 22548578304,
+      "posterUrl": "https://i128.fastpic.org/big/2026/1011/8f/f1902571d2a6bd4fc101b759aa5af28f.png",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vik1ngfile.site/f/il7bzigJba"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA02259",
+      "title": "Oddworld Soulstorm",
+      "version": "01.16",
+      "sizeBytes": 13958643712,
+      "posterUrl": "https://i128.fastpic.org/big/2026/1011/0c/c218a8ddbb519244877494a95ee3760c.png",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vik1ngfile.site/f/65rZPFPb2q"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA28416",
+      "title": "STAR WARS: Galactic Racer™",
+      "version": "01.003",
+      "sizeBytes": 34359738368,
+      "posterUrl": "https://i128.fastpic.org/big/2026/1011/14/5e9e46b5c572819845ac80ec549be714.png",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vik1ngfile.site/f/ecd0iq7rbO"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA02809",
+      "title": "Alfred Hitchcock Vertigo",
+      "version": "01.100",
+      "sizeBytes": 18253611008,
+      "posterUrl": "https://i128.fastpic.org/big/2026/1011/d8/06f951049c749b4b1a54d7ed416795d8.png",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vik1ngfile.site/f/llpjHfAgIZ"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA16064",
+      "title": "Minecraft Dungeons II",
+      "version": "01.100",
+      "sizeBytes": 6442450944,
+      "posterUrl": "https://i128.fastpic.org/big/2026/1011/eb/840bf10d8519f2e8c451b93b71ffb6eb.png",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vik1ngfile.site/f/NtZUzB4akR"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA05063",
+      "title": "Steelrising",
+      "version": "01.006",
+      "sizeBytes": 26843545600,
+      "posterUrl": "https://i128.fastpic.org/big/2026/1011/28/bec3d032e279567bd9065da441ee1a28.png",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vik1ngfile.site/f/OBOWxZI7mN"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA03190",
+      "title": "MultiVersus",
+      "version": "01.055",
+      "sizeBytes": 17179869184,
+      "posterUrl": "https://i128.fastpic.org/big/2026/1011/f6/9e535fd2b0d450c92ef08943d36005f6.png",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vik1ngfile.site/f/QfKAaQ12oS"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA33016",
+      "title": "RAYMAN 30th Anniversary Edition",
+      "version": "01.002",
+      "sizeBytes": 3221225472,
+      "posterUrl": "https://i128.fastpic.org/big/2026/1011/53/818f73de7fcf2c160f4cb47bea8d8453.png",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vik1ngfile.site/f/OM75q72A9Y"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA35889",
+      "title": "NBA 2K27",
+      "version": "01.007",
+      "sizeBytes": 115255447388,
+      "posterUrl": "https://i128.fastpic.org/big/2026/1011/32/8af0a5d3f443ec233857bb2dd7a20c32.png",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vik1ngfile.site/f/RsUKHppo2j"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA34015",
+      "title": "EA SPORTS FC 27",
+      "version": "01.00",
+      "sizeBytes": 68493990953,
+      "posterUrl": "https://i128.fastpic.org/big/2026/1011/4f/8c9ea9300fcb49a91918ab722ee26e4f.png",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vik1ngfile.site/f/uLu6FIGxu4"
+        },
+        {
+          "name": "Viki",
+          "url": "https://vik1ngfile.site/f/R89RA8lK5z"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA16645",
+      "title": "7 Days to Die Console Edition",
+      "version": "01.320.002",
+      "sizeBytes": 14925011354,
+      "posterUrl": "https://i128.fastpic.org/big/2026/1011/24/c376257e24d813e76bd0b2e8bbab5724.png",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vik1ngfile.site/f/oYi7tJJEwn"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA34501",
+      "title": "Call of Duty Black Ops",
+      "version": "01.008",
+      "sizeBytes": 20036022436,
+      "posterUrl": "https://i128.fastpic.org/big/2026/1010/9a/fd34b5e7a4f7332e926182eb30f30f9a.png",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vik1ngfile.site/f/bML6o4dawh"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA13526",
+      "title": "GYLT",
+      "version": "02.000.052",
+      "sizeBytes": 4359391805,
+      "posterUrl": "https://i128.fastpic.org/big/2026/1010/e3/a1382578e93cbf41d7ebec41b3d8b7e3.png",
+      "downloadLinks": [
+        {
+          "name": "Viki (+Arabic Lang)",
+          "url": "https://vikingfile.com/f/vNQ6i7XaAi"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA29343",
+      "title": "Beast of Reincarnation Digital Deluxe Edition",
+      "version": "01.000",
+      "sizeBytes": 30064771072,
+      "posterUrl": "https://i128.fastpic.org/big/2026/1010/f9/bbc23cd3c3524d44cded6df3e85731f9.png",
+      "downloadLinks": [
+        {
+          "name": "Viki (+Arabic Lang)",
+          "url": "https://vikingfile.com/f/mN7miV7EaA"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA16603",
+      "title": "Granblue Fantasy Versus: Rising",
+      "version": "02.610",
+      "sizeBytes": 25608742502,
+      "posterUrl": "https://i128.fastpic.org/big/2026/1010/a2/dc9f8fa75c44e9423348379e81833ba2.png",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/byaGSD1Nn2"
+        },
+        {
+          "name": "Viki - Backport",
+          "url": "https://vik1ngfile.site/f/SKgOvFApAS"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA31162",
+      "title": "Super Meat Boy 3D",
+      "version": "02.00",
+      "sizeBytes": 2877628088,
+      "posterUrl": "https://i128.fastpic.org/big/2026/1010/86/85054ef0bd9cfba6b087edce6d802486.png",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/5zcjl6k8w5"
+        },
+        {
+          "name": "Viki - Backport",
+          "url": "https://vik1ngfile.site/f/sdDKMaGr3V"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA16833",
+      "title": "LEGO Batman Legacy of The Dark Knight",
+      "version": "01.10",
+      "sizeBytes": 34359738368,
+      "posterUrl": "https://i128.fastpic.org/big/2026/1010/09/0e71e1d74bbfa680be2541d323b81209.png",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/0NQ8D2w7kK"
+        },
+        {
+          "name": "Viki - Backport",
+          "url": "https://vik1ngfile.site/f/e71jqpGavl"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA26578",
+      "title": "MOUSE: P.I. For Hire",
+      "version": "",
+      "sizeBytes": 8589934592,
+      "posterUrl": "https://i128.fastpic.org/big/2026/1010/9e/9fb57a83faed35d951ec5159bd181b9e.png",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/7Rk2uqoA3K"
+        },
+        {
+          "name": "Viki - Backport",
+          "url": "https://vik1ngfile.site/f/EFesym0TZ7"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA20154",
+      "title": "Revenge of The Savage Planet",
+      "version": "01.030",
+      "sizeBytes": 11317238825,
+      "posterUrl": "https://i128.fastpic.org/big/2026/1009/24/7c6dad51bd7dd07959e68c45aa00f024.png",
+      "downloadLinks": [
+        {
+          "name": "Viki (+Arabic Lang)",
+          "url": "https://vikingfile.com/f/SrKG2poY9Q"
+        },
+        {
+          "name": "Viki - DLC",
+          "url": "https://vik1ngfile.site/f/o1gyaqZZrs"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA03352",
+      "title": "The Callisto Protocol",
+      "version": "01.033",
+      "sizeBytes": 52613349376,
+      "posterUrl": "https://i128.fastpic.org/big/2026/1009/f5/191624ece6bbcbeac944961ebd8a86f5.png",
+      "downloadLinks": [
+        {
+          "name": "Viki (+Arabic Lang)",
+          "url": "https://vik1ngfile.site/f/0XVA92n8HB"
+        },
+        {
+          "name": "Viki - DLC",
+          "url": "https://vik1ngfile.site/f/0XVA92n8HB"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA33286",
+      "title": "Silent Hill Townfall",
+      "version": "2.003.000",
+      "sizeBytes": 54760833024,
+      "posterUrl": "https://i128.fastpic.org/big/2026/1009/f7/69a32ceec8cf678539a7efedb71f85f7.png",
+      "downloadLinks": [
+        {
+          "name": "Viki (+Arabic Lang)",
+          "url": "https://vik1ngfile.site/f/YvODsQXNtL"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA24913",
+      "title": "Ace Combat 8 Wings of Theve",
+      "version": "01.001.001",
+      "sizeBytes": 109521666048,
+      "posterUrl": "https://i128.fastpic.org/big/2026/1009/a9/94b69a2d647ecc6e750911fe8b4ee1a9.png",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vik1ngfile.site/f/DgPDA57X0Y"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA07148",
+      "title": "The Outer Worlds Spacer’s Choice Edition",
+      "version": "01.006.000",
+      "sizeBytes": 64424509440,
+      "posterUrl": "https://i128.fastpic.org/big/2026/1009/46/814d3f53976bc1ceba3aea30f2a01d46.png",
+      "downloadLinks": [
+        {
+          "name": "Viki (+Arabic Lang)",
+          "url": "https://vikingfile.com/f/Vta8fG3Ppn"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA29642",
+      "title": "South of Midnight",
+      "version": "01.001.000",
+      "sizeBytes": 44077101875,
+      "posterUrl": "https://i128.fastpic.org/big/2026/1009/76/d645cfc27d65699efa782eb9e00f4a76.png",
+      "downloadLinks": [
+        {
+          "name": "Viki (+Arabic Lang)",
+          "url": "https://vik1ngfile.site/f/34qlZHE5Au"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA24588",
+      "title": "The Outer Worlds 2",
+      "version": "01.100.001",
+      "sizeBytes": 76149770158,
+      "posterUrl": "https://i128.fastpic.org/big/2026/1009/d5/366a8a492cf817b922b8f6742bb520d5.png",
+      "downloadLinks": [
+        {
+          "name": "Viki (+Arabic Lang)",
+          "url": "https://vik1ngfile.site/f/GZBxTIvuJ5"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA32309",
+      "title": "The Adventures of Elliot: The Millennium Tales",
+      "version": "01.100",
+      "sizeBytes": 14710262989,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202601/1912/b5a499582e76829925ef74ec1b9b11b7068c93267dfb429b.jpg",
+      "downloadLinks": [
+        {
+          "name": "Fileditch",
+          "url": "https://fileditchfiles.st/alpha33/cf0e2f16296e75a54d5b/PPSA32309_-_eliot.pkg.rename"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA36082",
+      "title": "Hades 2",
+      "version": "01.006",
+      "sizeBytes": 8536247501,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202603/2506/4eaaffc1d4e5a8851ae3f1d21e2e108a50450cfae9d1c948.png",
+      "downloadLinks": [
+        {
+          "name": "Fileditch",
+          "url": "https://fileditchfiles.st/alpha33/4b00a5155c24ac880a46/PPSA36082-Hades2.pkg.rename"
+        }
+      ]
+    },
+    {
       "titleId": "PPSA01911",
       "title": "FINAL FANTASY VII REMAKE INTERGRADE",
       "version": "1.000",
@@ -36,6 +562,18 @@
         {
           "name": "Akirabox pt.2",
           "url": "https://akirabox.com/qLQ36qZ2Qm19/file"
+        },
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/CdFD5gyWAt"
+        },
+        {
+          "name": "Fileditch",
+          "url": "https://fileditchfiles.st/alpha33/20e9cb7cdf24672a1518/Onimusha_Way_of_the_Sword_v01.000.001_PPSA27836_12.xx.pkg.rename"
+        },
+        {
+          "name": "Viki - Backport",
+          "url": "https://vik1ngfile.site/f/o2Dz1qssxH"
         }
       ]
     },
@@ -88,6 +626,10 @@
         {
           "name": "Viki",
           "url": "https://vikingfile.com/f/vmpjpJrnBk"
+        },
+        {
+          "name": "Viki - Backport",
+          "url": "https://vik1ngfile.site/f/63Af2X98UA"
         }
       ]
     },
@@ -127,6 +669,10 @@
         {
           "name": "Viki",
           "url": "https://vik1ngfile.site/f/i2IaWe2QUR"
+        },
+        {
+          "name": "Viki (+Arabic Lang)",
+          "url": "https://vik1ngfile.site/f/C96izBPiaz"
         }
       ]
     },
@@ -225,8 +771,8 @@
           "url": "https://akirabox.com/Zvqzl7kon3aD/file"
         },
         {
-          "name": "Viki - Backport - 4.xx+",
-          "url": "https://vikingfile.com/f/8Odd5ZT0am"
+          "name": "Viki - Backport",
+          "url": "https://vik1ngfile.site/f/9BOdR6o6sc"
         }
       ]
     },
@@ -419,6 +965,10 @@
         {
           "name": "Viki",
           "url": "https://vikingfile.com/f/E3tIZcLs5M"
+        },
+        {
+          "name": "Viki - Backport",
+          "url": "https://vik1ngfile.site/f/A8swJX6R3R"
         }
       ]
     },
@@ -972,6 +1522,10 @@
         {
           "name": "Viki",
           "url": "https://vikingfile.com/f/BZQYVh18wR"
+        },
+        {
+          "name": "Viki (+Arabic Lang)",
+          "url": "https://vik1ngfile.site/f/umqAXS93ae"
         }
       ]
     },
@@ -2258,6 +2812,10 @@
         {
           "name": "Viki",
           "url": "https://vikingfile.com/f/m3hscoKXJe"
+        },
+        {
+          "name": "Viki (+Arabic Lang)",
+          "url": "https://vikingfile.com/f/9OqucpANrL"
         }
       ]
     },
@@ -2764,6 +3322,10 @@
         {
           "name": "Viki",
           "url": "https://vik1ngfile.site/f/unKoOl6eE9"
+        },
+        {
+          "name": "Viki - Backport",
+          "url": "https://vik1ngfile.site/f/fsszzIEadv"
         }
       ]
     },
@@ -3320,6 +3882,10 @@
         {
           "name": "Viki",
           "url": "https://vikingfile.com/f/AVA3e8Gf92"
+        },
+        {
+          "name": "Viki (+Arabic Lang)",
+          "url": "https://vikingfile.com/f/zRHVqIoqpc"
         }
       ]
     },
@@ -3677,6 +4243,10 @@
         {
           "name": "Archive",
           "url": "https://archive.org/details/SMMiles_PKG"
+        },
+        {
+          "name": "Viki (+Arabic Lang)",
+          "url": "https://vik1ngfile.site/f/lVsypffzeA"
         }
       ]
     },

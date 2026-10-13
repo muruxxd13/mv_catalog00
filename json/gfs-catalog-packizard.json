@@ -1,0 +1,44 @@
+{
+  "name": "GFS Catalog-packizard",
+  "packages": [
+    {
+      "titleId": "PPSA01460",
+      "title": "Marvel's Spider-Man Miles Morales",
+      "version": "01.015.001",
+      "sizeBytes": 40802189312,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202008/1420/HcLcfeQBXd2RiQaCeWQDCIFN.jpg",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/1peGpL48Wj"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA07587",
+      "title": "Sea of Stars",
+      "version": "01.013",
+      "sizeBytes": 4294967296,
+      "posterUrl": "https://i.ytimg.com/vi/BMComOd9qP4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAL25TRMQZwKv1HUnRCYUF2JuL3WQ",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/4ZF46oZ4df"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA28542",
+      "title": "Gex Trilogy",
+      "version": "1.10",
+      "sizeBytes": 3221225472,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202505/1319/f076a952da80c9519c82564881925e3bf1f0d445ec15f284.png",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/F9Cz6islUi"
+        }
+      ]
+    }
+  ]
+}
